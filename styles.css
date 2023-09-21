@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+.card {
+	width : 250px ;
+	padding : 40px ;
+	background-color : gainsboro ;
+	box-shadow : 5px 5px 5px 5px ;
+	text-align : center;
+}
+#btn{
+	padding : 5px;
+	background-color : red;
+	color: white;
+	font-weight : 900;
+	border-radius : 5px;
+	
+}
